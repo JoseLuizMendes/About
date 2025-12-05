@@ -1,48 +1,72 @@
 # Olá! Eu sou o José Luiz Mendes 👋
-
+ 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Buscando%20Oportunidades%20Full%20Stack-0077B6?style=flat-square&logo=linkedin&logoColor=white" alt="Status Profissional"/>
+  <a href="https://portdev-bice.vercel.app">
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20(Java%2FNext.js)-3b82f6?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Full Stack Developer Status"/>
+  </a>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0e7e43?style=for-the-badge&logo=upwork&logoColor=white" alt="Open to Work Badge"/>
 </div>
 
-### 💻 Desenvolvedor Full Stack | Especialista em Java, Spring, Next.js & React
+### 💻 Breve Resumo Profissional
 
-### 💡 Visão Geral (A Regra dos 3 Segundos)
-
-Estudante de Ciência da Computação com **2+ anos de experiência** em desenvolvimento de sistemas. Minha especialidade é construir APIs **escaláveis** com **Java/Spring Boot** e entregar interfaces modernas em **Next.js**, sempre aplicando boas práticas de **Clean Code** e **CI/CD**. Foco em resultados mensuráveis.
+Desenvolvedor Full Stack (Java/Spring | Next.js/React). [cite_start]Especializado em criar soluções **escaláveis** com foco em **Qualidade de Software (SonarQube)** e práticas de **CI/CD (Azure DevOps)**[cite: 8]. Meu objetivo é entregar alto impacto em projetos de desenvolvimento web.
 
 ---
 
-## 🛠️ Stack Principal (Hard Skills)
+## 🚀 Minha Stack Técnica (Hard Skills)
 
-Abaixo estão as ferramentas que utilizo para criar soluções de **High Availability** e performance.
+Aqui estão as tecnologias que utilizo em projetos de **alto desempenho** e **código limpo**:
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | **Java**, **Spring Boot**, Node.js, C# (.NET) |
-| **Frontend** | **Next.js**, **React**, **TypeScript**, Tailwind CSS, JavaScript |
-| **Dados** | **PostgreSQL**, SQL Developer, Prisma |
-| **DevOps & QA** | **Azure DevOps (CI/CD)**, **Docker**, Git, **SonarQube**, UML |
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+
+  <br/>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BC2?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+</div>
 
 ---
 
-## 🏆 Conquistas de Destaque (Métricas e Resultados)
+## 📂 Principais Repositórios (Para Pinar)
 
-Focando no formato STAR/CAR, estas são minhas principais contribuições:
+Estes são os projetos que melhor demonstram minhas habilidades Full Stack. **Recomendo pinar esses 3 na sua página principal do GitHub.**
 
-* **Qualidade de Software:** Otimizei processos de análise em sistemas críticos (Portal do Servidor) e liderei a implementação de regras que elevaram as métricas de qualidade para **Nota A** no **SonarQube**.
-* **Integração Contínua (CI/CD):** Gerenciei o ciclo de vida completo de aplicações, garantindo a **automação** do deploy e versionamento seguro utilizando **Azure DevOps** e Git.
-* **Arquitetura:** Liderei o mapeamento completo e a análise de sistemas legados para a migração estratégica de um novo sistema de RH do Governo (SIARHES).
+### 1. Barber Pro (SaaS em Desenvolvimento)
+* **Foco:** Aplicação Full Stack (Monorepo) de gestão de agendamentos para barbearias.
+* **Stack:** `Next.js`, `TypeScript`, `Prisma`, `PostgreSQL`, `NextAuth` e `Docker`.
+* **Destaque:** Implementação de autenticação e deploy em produção via conteinerização.
+
+### 2. API em Java/Spring Boot
+* **Foco:** Back-end robusto focado em arquitetura em camadas e segurança.
+* **Stack:** `Java`, `Spring Boot`, `PostgreSQL`, `Docker`.
+* **Destaque:** Definição de arquitetura com regras de negócio e testes unitários, preparada para **microsserviços**.
+
+### 3. Terra Certa (Hackathon/Demo)
+* **Foco:** Solução ecológica para uso consciente de pesticidas em práticas agrícolas sustentáveis.
+* **Stack:** `Python`, `Django`, `PostgreSQL`, `Docker`.
+* **Destaque:** Desenvolvido em equipe para um Hackathon, demonstrando desenvolvimento rápido e solução de problemas.
 
 ---
 
 ## 🌐 Conecte-se Comigo
 
-Estou aberto a oportunidades Full Stack e conversas sobre arquitetura de software e novas tecnologias.
+* **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/jos%C3%A9-luiz-dos-santos-azeredo-mendes-ab5a10283/)
+* **Portfólio:** [PortDev](https://portdev-bice.vercel.app)
+* **Email:** josemendess004@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-luiz-dos-santos-azeredo-mendes-ab5a10283/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemendess004@gmail.com)
-[![Website](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portdev-bice.vercel.app)
+---
 
-<br/>
-
-### 📈 Estatísticas do GitHub
+Qual é a próxima etapa que deseja otimizar: **LinkedIn** ou **Currículo (PDF)**?
