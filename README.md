@@ -68,6 +68,12 @@ Exemplo de desenvolvimento rápido e aplicação de tecnologias em soluções co
 
 ---
 
+## 📊 Minhas Estatísticas no GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/JoseLuizMendes)
+
+---
+
 ## 🌐 Conecte-se Comigo
 
 * **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/jos%C3%A9-luiz-dos-santos-azeredo-mendes-ab5a10283/)
