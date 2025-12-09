@@ -79,6 +79,12 @@ Com 2+ anos de vivência no setor público, minha experiência envolve manutenç
 * **Stack:** Python, Django, PostgreSQL e Docker.
 * **Conquista:** Desenvolvimento rápido de um MVP funcional em JavaScript, React e API's climáticas que são ocnsumidas no Frontend, demonstrando adaptabilidade e foco em soluções sustentáveis.
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseLuizMendes/JoseLuizMendes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseLuizMendes/JoseLuizMendes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseLuizMendes/JoseLuizMendes/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ### 🌐 Conecte-se Comigo
