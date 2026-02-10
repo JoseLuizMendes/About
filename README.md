@@ -67,12 +67,12 @@ Com 2+ anos de vivência no setor público, minha experiência envolve manutenç
 #### 2. Bellessence (E-commerce de Perfumaria)
 * **Foco:** Desenvolvimento de um e-commerce de perfumaria com foco em performance, experiência do usuário e catálogo dinâmico.
 * **Stack:** JavaScript, Next.js, React, Tailwind CSS e ShadCN UI.
-* **Conquista:** Demonstração de arquitetura de Front-end modular e otimização de renderização.
+* **Conquista:** Demonstração de arquitetura de Front-end modular e otimização de renderização e conexão com o Mercado Pago.
 
 #### 3. Wedding (Site do Meu Casamento)
 * **Foco:** Projeto Full Stack que aplica tecnologias modernas em contexto pessoal.
 * **Stack:** JavaScript, React, Tailwind CSS, TypeScript, Prisma e PostgreSQL.
-* **Conquista:** Gerenciamento de confirmação de presença (RSVP) e lista de presentes dinâmicos, com integração completa entre Front-end e Banco de Dados.
+* **Conquista:** Gerenciamento de confirmação de presença (RSVP) e lista de presentes dinâmicos, com integração completa entre Front-end, Banco de Dados e conexão com o Mercado Pago.
 
 #### 4. Terracerta (Solução Ecológica de Hackathon)
 * **Foco:** Solução ecológica desenvolvida durante hackathon para uso consciente e eficiente de pesticidas.
